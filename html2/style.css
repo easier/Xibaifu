@@ -1,0 +1,32 @@
+.top{background:#CC0000;height:6px;font-size:6px;}
+.page{background:url(images/bg.gif) repeat-x;}
+.menu{height:32px;clear:both;padding-top:32px;border-bottom:1px solid #D2CDBE;}
+.menu ul{padding-left:3px;}
+.menu li{float:left;list-style:none;margin-right:12px;font-size:14px;}
+.menu li a{text-decoration:none;color:#333;}
+.logo{padding-top: 30px;float:left;}
+.cart_tool{float:right;height:24px;width:146px;background:url(images/cart_bg.gif);text-align:center;}
+.cart_tool a{color:#fff;text-decoration:none;}
+.search_box{margin-left: 690px;margin-top: -30px;}
+.show_pic{padding-top: 10px;padding-bottom:6px;}
+.product{}
+.product_item{float:left;height:192px;border-bottom:1px dotted #D2CDBE;border-right:1px dotted #D2CDBE;width:189px;text-align:center;height:202px;}
+.product_item a{padding:11px;float:left;text-decoration:none;color:#333;}
+.product_item a:hover{background:#F0EEE5;color:#666;}
+.product_item p{margin:0;padding:0;}
+.shop1_img{border-top:2px solid #D2CDBE;width:189px;float:left;margin-right:1px;} /*---------左侧产品导航图片----------*/
+.shop1{width:760px;float:left;border-top:2px solid #D2CDBE;} /*---------产品商店1----------*/
+.shop_nav{width:189px;float:left;height:299px;}/*---------产品导航----------*/
+.shop_nav ul{padding-left:0;list-style:none;border-top:2px solid #D2CDBE;margin-right:17px;}
+.shop_nav li{border-bottom:1px solid #D2CDBE;height:28px;line-height:28px;padding-left:8px;background:url(images/plus.gif) no-repeat 150px 9px;}
+.shop_nav li a{float:left;height:26px;text-decoration:none;color:#333;width:160px;}
+.content{width:741px;float:left;} /*---------产品内容----------*/
+.crumb{height:32px;line-height:32px;padding-left:8px;border-top:2px solid #D2CDBE;}
+.crumb a{color:#666;text-decoration:none;}
+.crumb a:hover{color:#cc0000;}
+.item_show{width:420px;height:320px;border:1px solid #ccc;float:left;}
+.item_info{float:left;width:315px;}
+.item_info ul{list-style:none;padding-left:18px;line-height:24px;}
+#shop1_img{background:url(http://www.s);}
+.footer{width:950px;margin-top:42px;border-top:1px solid #D2CDBE;clear:both;}
+.brand{margin-top:18px;border-top:1px solid #D2CDBE;}
